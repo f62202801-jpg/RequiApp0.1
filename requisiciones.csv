@@ -1,0 +1,18 @@
+ID,Fecha,Usuario,Solicitante,Departamento,Etapa,Proyecto,Productos_JSON,Unidad_JSON,Cantidad_JSON,Ubicacion,Motivo,Jefe Inmediato,Estatus,Fecha Autorizacion,Comentarios Jefe,ImageFiles
+1,2025-09-25 08:42:46,admin,Administrador,Administracion,Opex,308 - IT,"[""TONER P/IMPRESORA 10 5A"", ""ANTIVIRUS""]","[""Pieza"", ""Pieza""]","[""5"", ""25""]",San Martín,impresiones,,Aprobado,2025-09-25 08:43:28,,b331caad25ab4fa1b12ae86cfaf2cc84_HP_ALMACEN.jpg
+2,2025-09-25 08:44:25,jefe,Jefe Inmediato,Fresa,Preplantacion,101 - Strawberry,"[""COMIDA""]","[""Bulto""]","[""5""]",Almacén,,,Aprobado,2025-09-25 09:17:14,,
+3,2025-09-25 09:06:25,jefe,Jefe Inmediato,Fresa,Preplantacion,101 - Strawberry,"[""COMPOSTA""]","[""Bulto""]","[""3""]",Santa Julia 1,impresiones,,Pendiente,,,
+4,2025-09-25 09:09:23,jefe,Jefe Inmediato,Fresa,Preplantacion,101 - Strawberry,"[""CARGO ADICIONAL COMBUSTIBLE DE ENVIOS""]","[""Bulto""]","[""2""]",Almacén,,,Pendiente,,,
+5,2025-09-25 09:10:32,jefe,Jefe Inmediato,Fresa,Preplantacion,101 - Strawberry,"[""COMIDA""]","[""Bulto""]","[""2""]",Almacén,,,Rechazado,2025-10-06 13:02:26,,
+6,2025-09-25 09:10:32,jefe,Jefe Inmediato,Fresa,Preplantacion,101 - Strawberry,"[""COMIDA""]","[""Bulto""]","[""2""]",Almacén,,,Pendiente,,,
+7,2025-10-02 09:47:44,admin,Administrador,Administracion,Gastos de administracion,308 - IT,"[""TONER P/IMPRESORA 10 5A""]","[""Pieza""]","[""5""]",Almacén,,,Rechazado,2025-10-06 13:04:27,,
+8,2025-10-06 13:01:42,erik,Erik Oronzor,Administracion,Gastos de administracion,308 - IT,"[""REVISION DE BIN CARRIER""]","[""Litro""]","[""56""]",San Martín,Hgj,Jefe Inmediato,Aprobado,2025-10-06 13:02:23,,
+9,2025-10-09 14:40:16,juanjo,Juan José M.,Administracion,Gastos de administracion,304 - Finance & Controlling,"[""PALITO DE MADERA""]","[""Pieza""]","[""123""]",San Martín,se requiere,Jefe Inmediato,Pendiente,,,
+10,2025-10-09 14:44:30,juanjo,Juan José M.,Fresa,Preplantacion,101 - Strawberry,"[""GUIA DE ENVIO""]","[""Bulto""]","[""52""]",Almacén,,Rebecca Prieto,Aprobado,2025-10-09 14:45:19,,
+11,2025-10-09 15:10:46,Yoalli,Yoalli Gonzalez,Fresa,Preplantacion,101 - Strawberry,"[""ESTACIÓN METEOROLOGICA PARA MONITOREO CLIMATICO""]","[""Bulto""]","[""1""]",Almacén,l,Alfonso Aquino,Pendiente,,,
+12,2025-10-10 14:27:17,juanjo,Juan José M.,Administracion,Gastos de administracion,304 - Finance & Controlling,"[""APARATO DIFUSOR DE AROMATIZANTE""]","[""Pieza""]","[""15""]",San Martín,Papelería para desarrollo de actividades,Ilianna Orozco,Aprobado,2025-10-10 14:28:36,,
+13,2025-10-10 14:28:39,jesus,Administrador,Administracion,Gastos de administracion,"300 - Board Of Directors, President & Special Projects","[""REPUESTO PARA DOSATRON""]","[""Pieza""]","[""20""]",Almacén,Envío de paquetes,,Pendiente,,,51e2dcd79db945089e0ae7dd12e76823_1000020184.jpg
+1760374898,2025-10-13 11:01:38,erik,Erik Oronzor,Fresa,Preplantacion,101 - Strawberry,AN,Juego,1.02,Baja California,impresiones,,Pendiente,,,
+1760375583,2025-10-13 11:13:03,jesus,Administrador,Fresa,Preplantacion,101 - Strawberry,ANTIVIRUS,Bulto,2,Almacén,ff,,Pendiente,,,
+1760375583,2025-10-13 11:13:03,jesus,Administrador,Fresa,Preplantacion,101 - Strawberry,ANUNCIOS DE PERIFONEO,Bulto,4,Almacén,ff,,Pendiente,,,
+1760375583,2025-10-13 11:13:03,jesus,Administrador,Fresa,Preplantacion,101 - Strawberry,BORDADO,Bulto,8,Almacén,ff,,Pendiente,,,

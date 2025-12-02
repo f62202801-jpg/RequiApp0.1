@@ -1,0 +1,4 @@
+ID,Fecha,Usuario,Solicitante,Departamento,Etapa,Proyecto,Productos_JSON,Unidad_JSON,Cantidad_JSON,Ubicacion,Motivo,Jefe Inmediato,Estatus,Fecha Autorizacion,Comentarios Jefe,ImageFiles
+1760375583,2025-10-13 11:13:03,jesus,Administrador,Fresa,Preplantacion,101 - Strawberry,ANTIVIRUS,Bulto,2,Almacén,ff,,Pendiente,,,
+1760375583,2025-10-13 11:13:03,jesus,Administrador,Fresa,Preplantacion,101 - Strawberry,ANUNCIOS DE PERIFONEO,Bulto,4,Almacén,ff,,Pendiente,,,
+1760375583,2025-10-13 11:13:03,jesus,Administrador,Fresa,Preplantacion,101 - Strawberry,BORDADO,Bulto,8,Almacén,ff,,Pendiente,,,
